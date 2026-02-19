@@ -1,0 +1,2 @@
+Energyprice=0,9
+Energytax=0,1
