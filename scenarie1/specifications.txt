@@ -1,0 +1,2 @@
+Energyprices=0.7
+Energytax=0.9

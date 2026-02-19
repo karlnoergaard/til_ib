@@ -1,0 +1,3 @@
+Energyprice=10
+Energytax=20
+Energyintensity_Electricity=0,85
