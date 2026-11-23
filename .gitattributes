@@ -1,3 +1,5 @@
 *.gdx filter=lfs diff=lfs merge=lfs -text
+*.gmy filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
 dict.txt filter=lfs diff=lfs merge=lfs -text
 gams.gms filter=lfs diff=lfs merge=lfs -text
